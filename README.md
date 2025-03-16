@@ -24,17 +24,3 @@ CRUD-Form/
 │── script.js       # JavaScript logic
 │── README.md       # Project documentation
 ```
-
-## Getting Started
-
-### 1. Clone the Repository
-```sh
-git clone https://github.com/your-username/crud-form.git
-cd crud-form
-```
-
-### 2. Open in Browser
-Simply open `index.html` in any modern web browser.
-
-
-
